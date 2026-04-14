@@ -1,0 +1,445 @@
+{
+  "name": "קר לי מיזוג אוויר",
+  "full_address": "Keren Kayemet Le-Israel St 14, Giv'atayim",
+  "phone": "0526835050",
+  "website": "http://www.facebook.com/karlimizug",
+  "rating": 4.8,
+  "reviews_count": 48,
+  "reviews_fetched": 23,
+  "reviews_last_year": 1,
+  "category": "Air conditioning contractor",
+  "open_state": "Open now",
+  "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF2jl_KFufiZEVDqOttZfrJtiu1fBkyNEIowRg4jtt0SxEgK5KYlZ1YzsRouqlwlg7QUD9cFubZOJ_zFRg6MY9V0U3S23XGoRDmUDK35b5AHlL4zMstM0IYTnkrBXjbcFZkGQ0mhw=w408-h306-k-no",
+  "coordinates": {
+    "latitude": 32.0776084,
+    "longitude": 34.7679769
+  },
+  "plus_code": "3RH4+2C Giv'atayim",
+  "working_hours": {
+    "Tuesday": "8 am–11 pm",
+    "Wednesday": "8 am–11 pm",
+    "Thursday": "8 am–11 pm",
+    "Friday": "Closed",
+    "Saturday": "Closed",
+    "Sunday": "8 am–11 pm",
+    "Monday": "8 am–11 pm"
+  },
+  "price_level": null,
+  "email": null,
+  "reviews": [
+    {
+      "author": "דורית בן שלום",
+      "author_url": null,
+      "author_reviews_count": 4,
+      "is_local_guide": false,
+      "rating": 1,
+      "text": "חוויה לא נעימה בכלל\nלא ממליצה בעליל !!\nאייל הסתבך עם התקנה פשוטה של מנוע מזגן בסופו של דבר גם דרש ממני יותר מהסכום שקבענו מראש בטענה שנאלץ לקנות חלק נוסף שלא היה צפוי .\nשילמתי לו את כל הסכום כי סמכתי עליו והאמנתי לו .\nאחרי שהלך ראיתי שהמזגן תקול ומרעיש וכל זה במחיר ממש מופקע שהתלוננתי בפניו הוא פשוט חסם אותי ונעלם !!\nלמרות שביקשתי עד היום לא קיבלתי חשבונית או תעודת אחריות .\nלא מקצועי לא אמין ולא ישר\nוממש לא מומלץ .",
+      "date": "a month ago",
+      "iso_date_estimated": "2026-03-15T18:38:30.370Z",
+      "likes": 0,
+      "photos": [],
+      "owner_reply": null
+    },
+    {
+      "author": "Niv Elad",
+      "author_url": null,
+      "author_reviews_count": 22,
+      "is_local_guide": true,
+      "rating": 5,
+      "text": "שירות אדיב, אמין והגון\nחוויית שירות חיובית שכזו לא פגשתי כבר זמן רב!\nתודה לך",
+      "date": "a year ago",
+      "iso_date_estimated": "2025-04-14T18:38:30.371Z",
+      "likes": 0,
+      "photos": [],
+      "owner_reply": null
+    },
+    {
+      "author": "Genady Mager",
+      "author_url": null,
+      "author_reviews_count": 4,
+      "is_local_guide": true,
+      "rating": 5,
+      "text": "אייל הוא טכנאי ממש אמין, הזמנתי אותו כבר לשתי עבודות והוא עשה עבודה מאוד טובה ומקצועית. מאוד הוגן ולא מנסה לנפח מחירים כמו שהרבה טכנאים עושים. ממליץ לכולם.",
+      "date": "Edited 7 years ago",
+      "iso_date_estimated": "2019-04-16T18:38:30.372Z",
+      "likes": 0,
+      "photos": [
+        "https://lh3.googleusercontent.com/geougc-cs/AMG9lEQxVF1Uk1pA977EvOS9iOtZszYv8hFFR42lCE-ed4qWkRFwMDfTiFvkOd-5i4FkPU9f7bp-mtE0_jclTrfqYfAXTL8ei94V1CaC2ZS8A4KUg3-BuoNh1wZOCPgmPM0F1dsA4WSG=w600-h450-p"
+      ],
+      "owner_reply": null
+    },
+    {
+      "author": "Eran Berman",
+      "author_url": null,
+      "author_reviews_count": 2,
+      "is_local_guide": false,
+      "rating": 5,
+      "text": "אייל בחור על רמה, היה גמיש בזמנים ועשה עבודה טובה מאד - ממליץ בחום",
+      "date": "7 years ago",
+      "iso_date_estimated": "2019-04-16T18:38:30.372Z",
+      "likes": 0,
+      "photos": [],
+      "owner_reply": null
+    },
+    {
+      "author": "yariv slodash",
+      "author_url": null,
+      "author_reviews_count": 3,
+      "is_local_guide": false,
+      "rating": 5,
+      "text": null,
+      "date": "7 years ago",
+      "iso_date_estimated": "2019-04-16T18:38:30.372Z",
+      "likes": 0,
+      "photos": [],
+      "owner_reply": null
+    },
+    {
+      "author": "Shay Moshe",
+      "author_url": null,
+      "author_reviews_count": 1,
+      "is_local_guide": false,
+      "rating": 5,
+      "text": "אייל פורת תותח על מקצוען בחסד עליון מחירים הוגנים!",
+      "date": "7 years ago",
+      "iso_date_estimated": "2019-04-16T18:38:30.372Z",
+      "likes": 0,
+      "photos": [],
+      "owner_reply": null
+    },
+    {
+      "author": "Tal Eshed kaplan",
+      "author_url": null,
+      "author_reviews_count": 6,
+      "is_local_guide": false,
+      "rating": 5,
+      "text": null,
+      "date": "7 years ago",
+      "iso_date_estimated": "2019-04-16T18:38:30.372Z",
+      "likes": 0,
+      "photos": [],
+      "owner_reply": null
+    },
+    {
+      "author": "ירדן גורדון",
+      "author_url": null,
+      "author_reviews_count": 1,
+      "is_local_guide": false,
+      "rating": 5,
+      "text": null,
+      "date": "7 years ago",
+      "iso_date_estimated": "2019-04-16T18:38:30.372Z",
+      "likes": 0,
+      "photos": [],
+      "owner_reply": null
+    },
+    {
+      "author": "Psy Waves",
+      "author_url": null,
+      "author_reviews_count": 1,
+      "is_local_guide": false,
+      "rating": 5,
+      "text": "אייל היה מאוד מקצועי, פעם אחת עשה אצלי תיקון ופעם התקין מזגן בחדר אחר. הוא תמיד דואג להסביר מה הוא עושה וכמה כל דבר עולה, שלא יהיו הפתעות בסוף. טכנאי\nמאוד אמין, נתקלתי בהרבה טכנאי מזגנים חאפרים אבל אחרי שאייל עבד אצלי פעם אחת אני מזמין רק אותו וממליץ לכולם.",
+      "date": "7 years ago",
+      "iso_date_estimated": "2019-04-16T18:38:30.372Z",
+      "likes": 0,
+      "photos": [
+        "https://lh3.googleusercontent.com/geougc-cs/AMG9lERVD7madZMTkYu6wyespOKz9lYoEr_AkvdZCN5Z4lqmnTxJRZnoeuVhEy_3vZWhGI_gJVjEEKh9jnk5luZBtf4bBdllxSUr9obIodNNb9QdexQNgFdoYLggL7Ix99KTFVoxDgVhNA=w300-h225-p",
+        "https://lh3.googleusercontent.com/geougc-cs/AMG9lESzFfGJnbHxQkdfyav1_0qzdYVf0JdX0zTtiqz0rxHo0lOkCpKeYbmbv2hjIH0GNcV7IzuBhHhSq67_JVejRH-PY-_DO7jEqihdTCwgvH8P7SzPPRLXF2GJ4JQ-dRSjho0t9rkA=w300-h225-p",
+        "https://lh3.googleusercontent.com/geougc-cs/AMG9lESuYqMkS-CJfdNLm7ilQEGZu1IbKcRDXJZ8pK9VlEctBXAyrOPtz9q8qdn2qVIp6KuMXpXauqUDsp78qnX3Onifqb9QiGDZR8jNLD2jfC9c-NS-ic23xWqLzwaAcXH8Q1FeK8g=w300-h225-p",
+        "https://lh3.googleusercontent.com/geougc-cs/AMG9lERR8hjnfnw0nxIWaJpCbiswbrDZQWOqzCd_KQW10NeSfgVy-2SdZY6rVt5sCR25gVgMu7GcOfsOY6sLsL6oQiRbFqGNYxVhgCUtMAQrjITM4xlnUlPjis1o9uvnMnPaL6_dstQ3iQ=w300-h225-p"
+      ],
+      "owner_reply": null
+    },
+    {
+      "author": "קובי שרביט",
+      "author_url": null,
+      "author_reviews_count": 2,
+      "is_local_guide": false,
+      "rating": 4,
+      "text": "ראיתי הרבה טכנאים שונים בחיי ומעולם לא קיבלתי שירות מקצועי כמו אצל אייל! הוא לא התפשר עליי גם כשהתגלו קשיים טכניים, ונשאר עד שהעבודה הסתיימה ב-100%.\nאיש מיזוג נדיר עם שנים של ניסיון.",
+      "date": "7 years ago",
+      "iso_date_estimated": "2019-04-16T18:38:30.372Z",
+      "likes": 0,
+      "photos": [],
+      "owner_reply": null
+    },
+    {
+      "author": "Becca Brachio",
+      "author_url": null,
+      "author_reviews_count": 1,
+      "is_local_guide": false,
+      "rating": 5,
+      "text": "בן אדם מקצועי, אדיב, שירותי. מומלץ מאוד!!!",
+      "date": "7 years ago",
+      "iso_date_estimated": "2019-04-16T18:38:30.372Z",
+      "likes": 0,
+      "photos": [],
+      "owner_reply": null
+    },
+    {
+      "author": "gilboa gideon",
+      "author_url": null,
+      "author_reviews_count": 2,
+      "is_local_guide": false,
+      "rating": 5,
+      "text": "שירות מכל הלב , עם הרבה נשמה ומקצועיות , ממליץ בחום למי שמחפש טכנאי מזגן ברמה הגבוהה ביותר",
+      "date": "7 years ago",
+      "iso_date_estimated": "2019-04-16T18:38:30.372Z",
+      "likes": 0,
+      "photos": [],
+      "owner_reply": null
+    },
+    {
+      "author": "Lilach Dayan",
+      "author_url": null,
+      "author_reviews_count": 1,
+      "is_local_guide": false,
+      "rating": 5,
+      "text": "הגיע אלי sos, חייבת לציין כי לא נתקלתי באיש מקצוע אמין ושירותי כמו אייל כבר הרבה זמן.\nהצליח לטפל בתקלה מסובכת אחרי 3 אנשי מקצוע אחרים שלא הצליחו.\nאמין, שירותי ומקצועי... ממליצה החום, אצלנו הוא הפך להיות איש מקצוע של של כל המשפחה.",
+      "date": "7 years ago",
+      "iso_date_estimated": "2019-04-16T18:38:30.372Z",
+      "likes": 0,
+      "photos": [],
+      "owner_reply": null
+    },
+    {
+      "author": "Einat Almog",
+      "author_url": null,
+      "author_reviews_count": 22,
+      "is_local_guide": true,
+      "rating": 5,
+      "text": "טכנאי מקצועי עם מחירים נוחים ושירות מעולה. מומלץ בחום!!",
+      "date": "7 years ago",
+      "iso_date_estimated": "2019-04-16T18:38:30.372Z",
+      "likes": 0,
+      "photos": [],
+      "owner_reply": null
+    },
+    {
+      "author": "Shachar Navon",
+      "author_url": null,
+      "author_reviews_count": 11,
+      "is_local_guide": false,
+      "rating": 5,
+      "text": "שירות ומיקצועיות, הגיעו ותיקנו את המזגן במהירות ובמחיר הוגן!\nממליץ בחום!",
+      "date": "7 years ago",
+      "iso_date_estimated": "2019-04-16T18:38:30.372Z",
+      "likes": 0,
+      "photos": [],
+      "owner_reply": null
+    },
+    {
+      "author": "תמי פורת",
+      "author_url": null,
+      "author_reviews_count": 2,
+      "is_local_guide": false,
+      "rating": 5,
+      "text": "אייל הוא בחור יסודי מקפיד על דיוק ומקצועיות.\nבחור איכותי וערכי  עליו אפשר לסמוך👍🏻👍🏻 …",
+      "date": "7 years ago",
+      "iso_date_estimated": "2019-04-16T18:38:30.372Z",
+      "likes": 0,
+      "photos": [],
+      "owner_reply": null
+    },
+    {
+      "author": "ענבל ברגר",
+      "author_url": null,
+      "author_reviews_count": 2,
+      "is_local_guide": false,
+      "rating": 5,
+      "text": "מומלץ בחום!!!\nנעים, אדיב ומקצועי",
+      "date": "7 years ago",
+      "iso_date_estimated": "2019-04-16T18:38:30.372Z",
+      "likes": 0,
+      "photos": [],
+      "owner_reply": null
+    },
+    {
+      "author": "Idan Porat",
+      "author_url": null,
+      "author_reviews_count": 22,
+      "is_local_guide": true,
+      "rating": 5,
+      "text": null,
+      "date": "7 years ago",
+      "iso_date_estimated": "2019-04-16T18:38:30.372Z",
+      "likes": 0,
+      "photos": [],
+      "owner_reply": null
+    },
+    {
+      "author": "randomaly רותם וייסברג",
+      "author_url": null,
+      "author_reviews_count": 25,
+      "is_local_guide": true,
+      "rating": 5,
+      "text": "מקצועי והגון, ממליצה בחום ובקור!",
+      "date": "7 years ago",
+      "iso_date_estimated": "2019-04-16T18:38:30.372Z",
+      "likes": 0,
+      "photos": [],
+      "owner_reply": null
+    },
+    {
+      "author": "Yoni Feldman",
+      "author_url": null,
+      "author_reviews_count": 1,
+      "is_local_guide": false,
+      "rating": 5,
+      "text": "ביצע עבודה מורכבת בצורה מאוד מקצועית",
+      "date": "7 years ago",
+      "iso_date_estimated": "2019-04-16T18:38:30.372Z",
+      "likes": 0,
+      "photos": [],
+      "owner_reply": "תודה !"
+    },
+    {
+      "author": "הדרה בוכריס",
+      "author_url": null,
+      "author_reviews_count": 4,
+      "is_local_guide": false,
+      "rating": 5,
+      "text": "אייל מקצוען ברמות! שירותי, אדיב. ממליצה בחום!",
+      "date": "7 years ago",
+      "iso_date_estimated": "2019-04-16T18:38:30.372Z",
+      "likes": 0,
+      "photos": [],
+      "owner_reply": null
+    },
+    {
+      "author": "Zehava Michaeli",
+      "author_url": null,
+      "author_reviews_count": 3,
+      "is_local_guide": false,
+      "rating": 5,
+      "text": "שירות אדיב והוגן מכל הלב!\nעבודה מדוייקת, נקיה ומקצועית!\nמומלץ בחום!",
+      "date": "7 years ago",
+      "iso_date_estimated": "2019-04-16T18:38:30.372Z",
+      "likes": 0,
+      "photos": [],
+      "owner_reply": null
+    },
+    {
+      "author": "Roman Svirsky",
+      "author_url": null,
+      "author_reviews_count": 7,
+      "is_local_guide": false,
+      "rating": 5,
+      "text": "שירות מעולה ואדיב. הטכנאי מאוד הגון ודואג לעשות את העבודה על הצד הטוב ביותר, מומלץ בחום!",
+      "date": "10 years ago",
+      "iso_date_estimated": "2016-04-16T18:38:30.372Z",
+      "likes": 0,
+      "photos": [],
+      "owner_reply": null
+    }
+  ],
+  "photos": {
+    "owner": [],
+    "users": [
+      {
+        "url": "https://lh3.googleusercontent.com/geougc-cs/AMG9lEQxVF1Uk1pA977EvOS9iOtZszYv8hFFR42lCE-ed4qWkRFwMDfTiFvkOd-5i4FkPU9f7bp-mtE0_jclTrfqYfAXTL8ei94V1CaC2ZS8A4KUg3-BuoNh1wZOCPgmPM0F1dsA4WSG=w600-h450-p",
+        "thumb": "https://lh3.googleusercontent.com/geougc-cs/AMG9lEQxVF1Uk1pA977EvOS9iOtZszYv8hFFR42lCE-ed4qWkRFwMDfTiFvkOd-5i4FkPU9f7bp-mtE0_jclTrfqYfAXTL8ei94V1CaC2ZS8A4KUg3-BuoNh1wZOCPgmPM0F1dsA4WSG=w600-h450-p",
+        "source": "unknown"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/geougc-cs/AMG9lERVD7madZMTkYu6wyespOKz9lYoEr_AkvdZCN5Z4lqmnTxJRZnoeuVhEy_3vZWhGI_gJVjEEKh9jnk5luZBtf4bBdllxSUr9obIodNNb9QdexQNgFdoYLggL7Ix99KTFVoxDgVhNA=w300-h225-p",
+        "thumb": "https://lh3.googleusercontent.com/geougc-cs/AMG9lERVD7madZMTkYu6wyespOKz9lYoEr_AkvdZCN5Z4lqmnTxJRZnoeuVhEy_3vZWhGI_gJVjEEKh9jnk5luZBtf4bBdllxSUr9obIodNNb9QdexQNgFdoYLggL7Ix99KTFVoxDgVhNA=w300-h225-p",
+        "source": "unknown"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/geougc-cs/AMG9lESzFfGJnbHxQkdfyav1_0qzdYVf0JdX0zTtiqz0rxHo0lOkCpKeYbmbv2hjIH0GNcV7IzuBhHhSq67_JVejRH-PY-_DO7jEqihdTCwgvH8P7SzPPRLXF2GJ4JQ-dRSjho0t9rkA=w300-h225-p",
+        "thumb": "https://lh3.googleusercontent.com/geougc-cs/AMG9lESzFfGJnbHxQkdfyav1_0qzdYVf0JdX0zTtiqz0rxHo0lOkCpKeYbmbv2hjIH0GNcV7IzuBhHhSq67_JVejRH-PY-_DO7jEqihdTCwgvH8P7SzPPRLXF2GJ4JQ-dRSjho0t9rkA=w300-h225-p",
+        "source": "unknown"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/geougc-cs/AMG9lESuYqMkS-CJfdNLm7ilQEGZu1IbKcRDXJZ8pK9VlEctBXAyrOPtz9q8qdn2qVIp6KuMXpXauqUDsp78qnX3Onifqb9QiGDZR8jNLD2jfC9c-NS-ic23xWqLzwaAcXH8Q1FeK8g=w300-h225-p",
+        "thumb": "https://lh3.googleusercontent.com/geougc-cs/AMG9lESuYqMkS-CJfdNLm7ilQEGZu1IbKcRDXJZ8pK9VlEctBXAyrOPtz9q8qdn2qVIp6KuMXpXauqUDsp78qnX3Onifqb9QiGDZR8jNLD2jfC9c-NS-ic23xWqLzwaAcXH8Q1FeK8g=w300-h225-p",
+        "source": "unknown"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/geougc-cs/AMG9lERR8hjnfnw0nxIWaJpCbiswbrDZQWOqzCd_KQW10NeSfgVy-2SdZY6rVt5sCR25gVgMu7GcOfsOY6sLsL6oQiRbFqGNYxVhgCUtMAQrjITM4xlnUlPjis1o9uvnMnPaL6_dstQ3iQ=w300-h225-p",
+        "thumb": "https://lh3.googleusercontent.com/geougc-cs/AMG9lERR8hjnfnw0nxIWaJpCbiswbrDZQWOqzCd_KQW10NeSfgVy-2SdZY6rVt5sCR25gVgMu7GcOfsOY6sLsL6oQiRbFqGNYxVhgCUtMAQrjITM4xlnUlPjis1o9uvnMnPaL6_dstQ3iQ=w300-h225-p",
+        "source": "unknown"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF2jl_KFufiZEVDqOttZfrJtiu1fBkyNEIowRg4jtt0SxEgK5KYlZ1YzsRouqlwlg7QUD9cFubZOJ_zFRg6MY9V0U3S23XGoRDmUDK35b5AHlL4zMstM0IYTnkrBXjbcFZkGQ0mhw=w32-h32-p-k-no",
+        "thumb": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF2jl_KFufiZEVDqOttZfrJtiu1fBkyNEIowRg4jtt0SxEgK5KYlZ1YzsRouqlwlg7QUD9cFubZOJ_zFRg6MY9V0U3S23XGoRDmUDK35b5AHlL4zMstM0IYTnkrBXjbcFZkGQ0mhw=w32-h32-p-k-no",
+        "source": "unknown"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/a-/ALV-UjV6ghUPaLzKMHa7CYXTKYmJq-vKZd3oYqu_4Wh2abwuTTeKJrJ-Fg=w36-h36-p-rp-mo-ba2-br100",
+        "thumb": "https://lh3.googleusercontent.com/a-/ALV-UjV6ghUPaLzKMHa7CYXTKYmJq-vKZd3oYqu_4Wh2abwuTTeKJrJ-Fg=w36-h36-p-rp-mo-ba2-br100",
+        "source": "unknown"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/a-/ALV-UjWoPPjvsqpdEbWoN6wMatisEzEovaUBBNjp9TPJGsqKI2pAUCK2gQ=w36-h36-p-rp-mo-br100",
+        "thumb": "https://lh3.googleusercontent.com/a-/ALV-UjWoPPjvsqpdEbWoN6wMatisEzEovaUBBNjp9TPJGsqKI2pAUCK2gQ=w36-h36-p-rp-mo-br100",
+        "source": "unknown"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/a-/ALV-UjVGzO8Inb-G7I8pXK8K6rCZgv6zpELvypDwp6b-dBWpaU24vJFD=w36-h36-p-rp-mo-br100",
+        "thumb": "https://lh3.googleusercontent.com/a-/ALV-UjVGzO8Inb-G7I8pXK8K6rCZgv6zpELvypDwp6b-dBWpaU24vJFD=w36-h36-p-rp-mo-br100",
+        "source": "unknown"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/a-/ALV-UjWM2jB7MN-OmNXve5HpzZHDC7MVy-PByLHUEKXc6xxqCpNcXaI=w36-h36-p-rp-mo-br100",
+        "thumb": "https://lh3.googleusercontent.com/a-/ALV-UjWM2jB7MN-OmNXve5HpzZHDC7MVy-PByLHUEKXc6xxqCpNcXaI=w36-h36-p-rp-mo-br100",
+        "source": "unknown"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/a-/ALV-UjXIepQ52Oe2I6hWdh4Q7XqapfPGhl3wEydKhj8BvqLv0yVxxiw=w36-h36-p-rp-mo-br100",
+        "thumb": "https://lh3.googleusercontent.com/a-/ALV-UjXIepQ52Oe2I6hWdh4Q7XqapfPGhl3wEydKhj8BvqLv0yVxxiw=w36-h36-p-rp-mo-br100",
+        "source": "unknown"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/a-/ALV-UjX6RVNT1KAFKk0qZgvKbCXJ3SrcFkRgTHSTJO3XqYVxZX0UrPc=w36-h36-p-rp-mo-br100",
+        "thumb": "https://lh3.googleusercontent.com/a-/ALV-UjX6RVNT1KAFKk0qZgvKbCXJ3SrcFkRgTHSTJO3XqYVxZX0UrPc=w36-h36-p-rp-mo-br100",
+        "source": "unknown"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/a-/ALV-UjUNAGRY5qdmUGP4Pz7Pz2s3bRJZ4JkREXCyd4nJsadMjyEf-PFr=w36-h36-p-rp-mo-br100",
+        "thumb": "https://lh3.googleusercontent.com/a-/ALV-UjUNAGRY5qdmUGP4Pz7Pz2s3bRJZ4JkREXCyd4nJsadMjyEf-PFr=w36-h36-p-rp-mo-br100",
+        "source": "unknown"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/a-/ALV-UjVro5DE85lhezNiJpiSZNyHauUuHoGA5oxAkwBADlcxbQaCFfyd0A=w36-h36-p-rp-mo-ba3-br100",
+        "thumb": "https://lh3.googleusercontent.com/a-/ALV-UjVro5DE85lhezNiJpiSZNyHauUuHoGA5oxAkwBADlcxbQaCFfyd0A=w36-h36-p-rp-mo-ba3-br100",
+        "source": "unknown"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/a-/ALV-UjWN7UswrSLWA4fGLMfzcsfZ2rAbhSGMGNrQVycY49iZTomnzNz4=w36-h36-p-rp-mo-br100",
+        "thumb": "https://lh3.googleusercontent.com/a-/ALV-UjWN7UswrSLWA4fGLMfzcsfZ2rAbhSGMGNrQVycY49iZTomnzNz4=w36-h36-p-rp-mo-br100",
+        "source": "unknown"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/a-/ALV-UjWsPIi-10-1q5Wqh07wR8k58CzY-n18gmLTgb9pbAnJa6eXPV5E_Q=w36-h36-p-rp-mo-br100",
+        "thumb": "https://lh3.googleusercontent.com/a-/ALV-UjWsPIi-10-1q5Wqh07wR8k58CzY-n18gmLTgb9pbAnJa6eXPV5E_Q=w36-h36-p-rp-mo-br100",
+        "source": "unknown"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/a-/ALV-UjXlF9NN3np1OtNblCOZrlEM0ZmX0Sx4JZzmUgkg9EKyZWURsYM=w36-h36-p-rp-mo-ba2-br100",
+        "thumb": "https://lh3.googleusercontent.com/a-/ALV-UjXlF9NN3np1OtNblCOZrlEM0ZmX0Sx4JZzmUgkg9EKyZWURsYM=w36-h36-p-rp-mo-ba2-br100",
+        "source": "unknown"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/a-/ALV-UjX-qshCML5b7f-bqUKGYUO61-1hPikk0E0ZNPHBFw39teYGJ5d3=w36-h36-p-rp-mo-br100",
+        "thumb": "https://lh3.googleusercontent.com/a-/ALV-UjX-qshCML5b7f-bqUKGYUO61-1hPikk0E0ZNPHBFw39teYGJ5d3=w36-h36-p-rp-mo-br100",
+        "source": "unknown"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/a-/ALV-UjV0YFnKirKJHStj1Ixwb38Zr82tnv_wU3JzSDAztplkxYsJEeA=w36-h36-p-rp-mo-br100",
+        "thumb": "https://lh3.googleusercontent.com/a-/ALV-UjV0YFnKirKJHStj1Ixwb38Zr82tnv_wU3JzSDAztplkxYsJEeA=w36-h36-p-rp-mo-br100",
+        "source": "unknown"
+      }
+    ]
+  },
+  "timing": {
+    "resolve_url": "1.1s",
+    "page_load": "34.0s",
+    "place_details": "3.3s",
+    "reviews": "53.6s",
+    "photos": "19.2s",
+    "total": "111.2s"
+  }
+}

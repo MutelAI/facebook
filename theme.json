@@ -1,0 +1,10 @@
+{
+  "brand_personality": "מינימליסטי, אלגנטי, מהימן ומקצועי – כמו מנהל טיסה מנוסה. ממשק זכוכלי מודרני המשדר רכות וביטחון בכל אינטראקציה.",
+  "primary_color": "#1E3A8A",
+  "secondary_color": "#3B82F6",
+  "hero_gradient": "linear-gradient(135deg, #1e3a8a 0%, #1e40af 50%, #0c4a6e 100%)",
+  "contact_gradient": "linear-gradient(135deg, #1e40af 0%, #0c4a6e 50%, #164e63 100%)",
+  "font_heading": "Abril Fatface",
+  "font_body": "Merriweather",
+  "font_google_import": "@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Merriweather:wght@300;400;700&display=swap');"
+}
